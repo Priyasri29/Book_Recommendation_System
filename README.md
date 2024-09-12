@@ -9,6 +9,6 @@ Hyperparameter Optimization: Fine-tuned for better accuracy and relevance.
 
 Installation
 1. Clone the repository:
-git clone https://github.com/PRiyasri29/Book_Recommendation_System.git
+git clone https://github.com/Priyasri29/Book_Recommendation_System.git
 2. Install dependencies:
 pip install -r requirements.txt
